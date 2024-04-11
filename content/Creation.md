@@ -35,7 +35,12 @@ lapply(packages, function(x) {
 ## 2.2 Creating an R Markdown File
 ![Rmd Creation](images/creation.png)
 
-## 2.3 Compiling(Knitting/Rendering) an R Markdown File
+
+## 2.3 Organizing an R Markdown File
+Put all of the code that should be run together in the same code chunk. This about 1 chunk = 1 output (analysis or table).
+Use the outline section to find your way around. Code chunk names and headers are critical. 
+
+## 2.4 Compiling(Knitting/Rendering) an R Markdown File
 Once a new Rmd file is created, it contains some sample content. Let's go ahead and experiment with knitting it for now.
 
 Option 1:
@@ -50,6 +55,7 @@ rmarkdown::render('test.Rmd', 'html_document')
 ```
 
 <br>
+
 <br>
 This page is meant to walk you through the process of installing the necessary packages, opening and rendering an R Markdown file, in order to get you ready move on to learn how to make an R Markdown file for your own needs.
 <br>
