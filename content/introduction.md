@@ -33,6 +33,12 @@ Let's look at the *Tufte Handout* example from the [R Markdown Gallery](https://
 - **Integration**: can be used with a variety of other tools and packages, such as Shiny, to create interactive documents that allow users to interact with the data.
 
 <br>
+
+## 1.3 When is RMarkdown not the best choice?
+- **Data Cleaning**: Code is long and probably messy. Clean the data in a regular .R file and then move to RMarkdown after
+
+
+
 <br>
 This page is meant to introduce R Markdown briefly, what it is and why it is useful.
 <br>
