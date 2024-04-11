@@ -39,6 +39,7 @@ lapply(packages, function(x) {
 ## 2.3 Organizing an R Markdown File
 Put all of the code that should be run together in the same code chunk. This about 1 chunk = 1 output (analysis or table).
 Use the outline section to find your way around. Code chunk names and headers are critical. 
+![Rmd Creation](images/markdown_orient.png)
 
 ## 2.4 Compiling(Knitting/Rendering) an R Markdown File
 Once a new Rmd file is created, it contains some sample content. Let's go ahead and experiment with knitting it for now.
