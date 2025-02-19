@@ -25,7 +25,7 @@ At the end of this workshop, you will be able to:
 
 ## Schedule
 
-| 0:00 - 0:05 | Welcome and using Zoom|
+| 0:00 - 0:05 | Welcome and using Zoom |
 | 0:05 - 0:15 | Intro to R Markdown |
 | 0:15 - 0:25 | Creation and Compilation |
 | 0:25 - 0:55 | Basic Struture |
